@@ -40,7 +40,6 @@ namespace alertas
             }
             else if (Resposta == DialogResult.No)
             {
-
                 MessageBox.Show("Respondeu que não");
             }
         }
